@@ -86,3 +86,12 @@ Giao diện sau khi tạo thành công tài khoản Office 365
 - ![image](https://github.com/BsNgChiThanh/Tao-Office365-cho-sinh-vien/assets/82578024/2df23b7b-3406-4967-9419-d7e4c16afdaf)
 - Lưu ý đây là demo, tài khoản của tôi 5Tb còn tài khoản sinh viên các bạn chỉ 1Tb mà thôi.
 - ![image](https://github.com/BsNgChiThanh/Tao-Office365-cho-sinh-vien/assets/82578024/60fff1ed-ff95-4240-b69b-9907de548a6d)
+
+## HƯỚNG DẪN SỬ DỤNG ONEDRIVE ##
+
+- Hướng dẫn của [Microsoft](https://support.microsoft.com/vi-vn/office/t%E1%BA%A3i-l%C3%AAn-v%C3%A0-l%C6%B0u-t%E1%BB%87p-v%C3%A0-th%C6%B0-m%E1%BB%A5c-v%C3%A0o-onedrive-a5710114-6aeb-4bf5-a336-dffa7cc0b77a)
+- Một số trang hướng dẫn khác:
+  1. https://hotromicrosoft.com/huong-dan-su-dung-luu-tru-dam-may-onedrive-2258/
+  2. https://blogchiasekienthuc.com/thu-thuat-hay/cach-su-dung-onedrive-toan-tap.html
+  3. https://eka.vn/huong-dan-su-dung-luu-tru-dam-may-onedrive-eka-shop/
+  
